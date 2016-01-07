@@ -1,0 +1,14 @@
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\bin\Debug\Emoji-2.0.exe.config
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\bin\Debug\Emoji-2.0.exe.manifest
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\bin\Debug\Emoji-2.0.application
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\bin\Debug\Emoji-2.0.exe
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\bin\Debug\Emoji-2.0.pdb
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji_2._0.Emoji.resources
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji_2._0.FrmSettings.resources
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji_2._0.Properties.Resources.resources
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.csproj.GenerateResource.Cache
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.exe.manifest
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.application
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.exe
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.pdb
+C:\Users\Jack\documents\visual studio 2012\Projects\Emoji-2.0\Emoji-2.0\obj\Debug\Emoji-2.0.csprojResolveAssemblyReference.cache
